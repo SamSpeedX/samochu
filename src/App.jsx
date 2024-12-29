@@ -1,4 +1,4 @@
-import './assets/css/index.css';
+import './assets/css/App.css';
 // import Header from './header';
 import Developer from './developer';
 import Webshow from './electrician';
