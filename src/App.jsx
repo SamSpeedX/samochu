@@ -14,7 +14,7 @@ function App() {
  
       <header>
         <div className="logo"><h2>SAM OCHU</h2></div>
-        <div className="pc-nav">
+       {/* <div className="pc-nav">
           <nav>
             <ul>
               <li><a href="/">home</a></li>
@@ -22,7 +22,7 @@ function App() {
               <li><a href="/">Electrician</a></li>
             </ul>
           </nav>
-        </div>
+        </div> */}
         <div className="nav-btn">
           <a href="/" download="simon_cv.pdf">
             <button>Download CV</button>
